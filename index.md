@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Weclome To zhouyuheng2003's blog
+title: Home
 permalink: /Home/
 icon: heart
 type: page
 ---
+## Weclome To zhouyuheng2003's blog
 >*砥砺前行！*
 *Just keep on!*
 
