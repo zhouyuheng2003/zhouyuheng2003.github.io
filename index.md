@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weclome To zhouyuheng2003's blog
-permalink: /about/
+permalink: /Home/
 icon: heart
 type: page
 ---
