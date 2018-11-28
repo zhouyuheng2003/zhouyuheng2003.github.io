@@ -1,8 +1,8 @@
 ---
-layout: post
+layout:
 title: Welcome to zhouyuheng2003's Blog
 date:   2018-11-28 13:58:00 +0800
-categories: OI
+categories: main
 tags:
 author: zhouyuheng2003
 mathjax: true
