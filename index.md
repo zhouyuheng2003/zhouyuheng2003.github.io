@@ -3,7 +3,7 @@
 
 你好鸭，这是我搭建的个人网站
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20181129074012578.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob3V5dWhlbmcyMDAz,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20181129074012578.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3pob3V5dWhlbmcyMDAz,size_4,color_FFFFFF,t_70)
 
 **这是我的头像**
 
