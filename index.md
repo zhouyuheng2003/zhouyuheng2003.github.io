@@ -1,13 +1,10 @@
 ---
-layout: post
+layout: page
 title: Weclome To zhouyuheng2003's blog
-date:   2018-11-28 13:58:00 +0800
-categories: OI
-tags:
-author: zhouyuheng2003
-mathjax: true
+permalink: /about/
+icon: heart
+type: page
 ---
-
 >*砥砺前行！*
 *Just keep on!*
 
