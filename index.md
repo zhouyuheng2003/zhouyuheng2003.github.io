@@ -1,11 +1,4 @@
----
-layout: page
-title: Home
-permalink: /Home/
-icon: heart
-type: page
----
-## Weclome To zhouyuheng2003's blog
+### Weclome To zhouyuheng2003's blog
 >*砥砺前行！*
 *Just keep on!*
 
