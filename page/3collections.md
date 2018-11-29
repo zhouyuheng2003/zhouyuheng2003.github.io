@@ -20,5 +20,6 @@ type: page
 |[ljoj](http://192.168.45.99/)|[floj](https://floj.tech/)|[NFLSoj](https://floj.tech/)||学校oj
 
 #### OI相关
+
 [NOI官网](http://www.noi.cn/)|[OIwiki](https://oi-wiki.org/)
 [mathematica](https://www.wolframalpha.com/)|[OIES](http://oeis.org/)
