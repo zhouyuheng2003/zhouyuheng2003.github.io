@@ -22,4 +22,4 @@ type: page
 #### OI相关
 
 [NOI官网](http://www.noi.cn/)|[OIwiki](https://oi-wiki.org/)
-[mathematica](https://www.wolframalpha.com/)|[OIES](http://oeis.org/)
+[mathematica](https://www.wolframalpha.com/)|[OEIS](http://oeis.org/)
