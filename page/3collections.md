@@ -11,7 +11,6 @@ type: page
 
 ## OIer网址导航
 #### OJ
-|Column 1|Column2|Column 3|Column4|描述|
 
 |[BZOJ](https://www.lydsy.com/JudgeOnline/)|[uoj](http://uoj.ac/)|[loj](https://loj.ac/)|[vjudge](https://vjudge.net/)|国内官网
 |[poj](http://poj.org/)|[洛谷](https://www.luogu.org/)|[DrakBZOJ](https://darkbzoj.cf/)|[Codeforces](http://codeforces.com/)|常用
