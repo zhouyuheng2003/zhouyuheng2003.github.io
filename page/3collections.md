@@ -17,7 +17,7 @@ type: page
 |[atcoder](https://atcoder.jp/)|[51nod](https://www.51nod.com/)|[uva](https://uva.onlinejudge.org/)|[topcoder](https://www.topcoder.com/)|较难
 |[hdu](http://acm.hdu.edu.cn/)|[计蒜客](https://www.jisuanke.com/)|[小黄鸭](https://duck.ac/)||一般不去
 |[openjudge](http://openjudge.cn/)|[vijos](https://vijos.org/)|[CodeVS](http://www.codevs.cn/)|[官方题库](http://oj.noi.cn/oj/#main/home)|废弃或不用
-|[ljoj](http://192.168.45.99/)|[floj](https://floj.tech/)|[NFLSoj](https://floj.tech/)||学校oj
+|[ljoj](http://192.168.45.99/)|[floj](https://floj.tech/)|[NFLSoj](https://acm.nflsoj.com/)||学校oj
 
 #### OI相关
 
