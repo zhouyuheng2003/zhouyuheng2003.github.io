@@ -18,7 +18,7 @@ type: page
 |[hdu](http://acm.hdu.edu.cn/)|[计蒜客](https://www.jisuanke.com/)|[小黄鸭](https://duck.ac/)||一般不去
 |[openjudge](http://openjudge.cn/)|[vijos](https://vijos.org/)|[CodeVS](http://www.codevs.cn/)|[官方题库](http://oj.noi.cn/oj/#main/home)|废弃或不用
 |[ljoj](http://192.168.45.99/)|[floj](https://floj.tech/)|[NFLSoj](https://acm.nflsoj.com/)||学校oj
-|[spoj](https://www.spoj.com/)|||extra
+|[spoj](https://www.spoj.com/)||||extra
 #### OI相关
 
 [NOI官网](http://www.noi.cn/)|[OIwiki](https://oi-wiki.org/)
