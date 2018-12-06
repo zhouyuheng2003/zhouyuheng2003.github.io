@@ -23,3 +23,8 @@ type: page
 
 [NOI官网](http://www.noi.cn/)|[OIwiki](https://oi-wiki.org/)
 [mathematica](https://www.wolframalpha.com/)|[OEIS](http://oeis.org/)
+
+#### 实用博客网址链接
+
+[浅谈一类积性函数的前缀和](https://blog.csdn.net/skywalkert/article/details/50500009)
+[论逗逼的自我修养之寒假颓废记](http://jiruyi910387714.is-programmer.com/posts/195270.html)
